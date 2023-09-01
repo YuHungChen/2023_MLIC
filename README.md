@@ -14,6 +14,9 @@
 * Router
 ![image](https://github.com/YuHungChen/2023_MLIC/assets/120573862/1bb583a7-2ee0-4323-85c0-f2f624a53add)
 
+## The topology of LeNet and AlexNet:
+![image](https://github.com/YuHungChen/2023_MLIC/assets/120573862/a7c80c67-a891-44e5-9aa0-a54fdaf62996)
+
 ## topology-aware model:
 * I made result of LeNet and AlexNet. Because the two architectures are very similar
 * As long as you tell me the size of each layer of them, you can successfully execute it in this NOC
