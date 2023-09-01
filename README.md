@@ -25,3 +25,6 @@
   * make
 ## how to execute:
   * ./LAB
+
+## mode switch:
+* open mode.h file to change the path of the user-defined picture and the mode for AlexNet and LeNet
